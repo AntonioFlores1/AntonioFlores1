@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm an very inquisitive person always trying to learn something new. 
-I have a deep passion for coding and using my skill set to help people.
+I'm an very inquisitive person always trying to learn something new.  
+I have a deep passion for coding and using my skill set to help people 😁
 
 ### What i'm focusing on 👨🏻‍💻
 
-I'm currently working on improving my skills as a coder, coding in Swift & Dart. 
+I'm currently working on improving my skills as a coder in Swift & Dart. 
 <!--
 **AntonioFlores1/AntonioFlores1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
