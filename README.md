@@ -1,9 +1,9 @@
-### Hey, I'm Antonio ✌️
+### Hey, I'm Antonio
 
 I'm an very inquisitive person always trying to learn something new.  
-I have a deep passion for coding and using my skill set to help people 😁
+I have a deep passion for coding
 
-I love playing the violin, reading a good book or trying to learn something new
+I love playing the violin, reading a good book
 
 ### What i'm focusing on 👨🏻‍💻
 
